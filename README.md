@@ -6,7 +6,7 @@
 - **🛠 Staging Environment App (TBA):** [Staging MemPal](https://staging.mempal.online/)
 - **🖥 Client Repo:** [LeoTran/mempal-client](https://github.com/Mempal-Memory-Palace-Management-System/MemPal-FrontEnd-Client)
 - **🖥 Server Repo:** [LeoTran/mempal-server](https://github.com/Mempal-Memory-Palace-Management-System/MemPal-BackEnd-Server)
-- **📖 Documentation Repo:** [MemPalDocs](https://github.com/Mempal-Memory-Palace-Management-System/MemPal-Docs)
+- **📖 Part A Documentation Repo:** [MemPalDocs](https://github.com/Mempal-Memory-Palace-Management-System/MemPal-Docs)
 
 MemPal is a web application designed to help users create, organize, and practice memory palaces. Built with the MERN stack, it offers both free and premium subscription options, deployed on [Render.com](https://render.com/).
 
@@ -100,3 +100,5 @@ The application has been tested in Chrome and Firefox on Windows 10 and Mac OS V
 #### Project Management
 
 The project was managed using Agile methodology with Trello for task tracking. Sprints were planned and executed with regular stand-ups and reviews. This README file provides a comprehensive overview of the MemPal project, including setup instructions, API endpoints, testing, and project management details.
+
+![trelloB1](/docs/trelloBb1.png)
